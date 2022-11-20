@@ -5,3 +5,5 @@ Eiffel
 Brownie
 Midnight
 Miss Kitty
+George
+Trouble
